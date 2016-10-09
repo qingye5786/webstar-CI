@@ -1,0 +1,1 @@
+<div class="footer"> &copy; 2010-2015 <a href="http://www.phpol.cn" target="_blank">www.phpol.cn</a> 青叶出品</div>

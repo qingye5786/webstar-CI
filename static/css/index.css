@@ -1,0 +1,103 @@
+body {
+    font-family:????,Arial, Helvetica, sans-serif;
+	color:#000;	
+	font-size:16px;
+	background:#fff;
+}
+
+a {
+	color:#000;
+    text-decoration:none;	
+}
+
+a:hover {
+    color:#00F;	
+}
+
+.textcolor {
+	color:#999;	
+}
+
+input,textarea {
+	background:transparent;
+}
+
+#wrap {
+	background:url(../img/bg_1.jpg) no-repeat;
+	width:900px;
+	height:1400px;
+    margin:0 auto;
+	clear:both;
+}
+
+#wrap #iform {
+	position:relative;
+	top:800px;
+	left:100px;	
+}
+
+.messages {
+    text-align:center;	
+}
+
+.notice,.messages {
+	font-weight:bold;	
+}
+
+.notice {
+    text-align:center;	
+}
+
+table {
+    width:800px;
+}
+
+.title {
+    margin-top:10px;
+	border:1px solid #CCC;	
+	color:#999;
+    width:380px;
+	height:24px;
+	padding:0 10px;
+	border-radius:2px;
+}
+
+.pro_login {
+    text-align:center;
+	margin-top:400px;	
+}
+
+textarea {
+	color:#999;
+	width:380px;
+	height:240px;
+	margin-top:10px;
+	border-radius:2px;
+	padding:10px;
+}
+
+.submit,#reset,.see {
+	background: url("../img/button_w.png") no-repeat scroll 0 0 transparent;
+    border: 0 none;
+    color: #FFFFFF;
+    cursor: pointer;
+    height: 29px;
+    margin-top: 10px;
+    width: 100px;
+	padding-left:8px;
+	padding-bottom:12px;
+}
+
+.show {
+    border:1px solid #999;
+	margin-left:45px;	
+}
+
+#footer {
+	color: #000000;
+    margin: 0 auto;
+    width: 600px;
+	position:relative;
+	top:900px;
+	font-size:14px;
+}

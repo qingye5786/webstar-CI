@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+* {
+    margin:0px;
+	padding:0px;	
+}
+
+#footer{
+	text-align:center;
+}
+
+#jzw {
+	border:1px solid #999;
+	border-radius:4px;
+	width:440px;
+	height:270px;
+	position:fixed;
+	top:25%;
+	left:31%;
+	background:#fff;
+	text-align:center;
+	padding:20px;
+}
+
+#jzw .text {
+	font-weight:700;
+}
+
+#jzw  .img{
+	width:360px;
+	margin:0 auto;
+	
+}
+
+#jzw .close {
+	    position: relative;
+    right: -380px;
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+    top: -10px;
+}
